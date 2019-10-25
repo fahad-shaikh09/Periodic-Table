@@ -1,0 +1,42 @@
+.yellow {
+    background-color: yellow;
+}
+.brown {
+    background-color: brown;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
+.chocolate {
+    background-color: chocolate;
+}
+.grey {
+    background-color: grey;
+}
+.palevioletred {
+    background-color: palevioletred;
+}
+.red {
+    background-color: red;
+}
+.goldenrod {
+    background-color: goldenrod;
+}
+.salmon {
+    background-color: salmon;
+}
+.crimson {
+    background-color: crimson;
+}
+table {
+    width: 1100px;
+    font-weight: 500
+}
+h1 {
+    background-color: #111;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
